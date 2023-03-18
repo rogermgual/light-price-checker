@@ -1,2 +1,2 @@
 #!/bin/sh
-python python.py
+python main.py
