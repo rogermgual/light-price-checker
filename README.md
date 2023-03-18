@@ -15,4 +15,4 @@ To build the image, run:
 Once the image is created, then run the container like:
 >`docker run light-price-checker-img`
 
-[TBD]
+[ToDo]
